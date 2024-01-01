@@ -7,3 +7,5 @@ Hello, World! :sunrise:
 - :running:&nbsp;&nbsp;适量运动
 - :book: 体系学习
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novpath&layout=compact&theme=tokyonight)
+
