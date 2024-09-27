@@ -1,11 +1,15 @@
+
+
+### Hello ~ 👋
+
 <img align="right" alt="novpath's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=novpath&show_icons=true&icon_color=F6511D&text_color=283845&bg_color=ffffff&hide_title=true"/>
 
-Hello, World! :sunrise:
 
-- :feet: 当时不杂
-- :computer: 编程能力
-- :running:&nbsp;&nbsp;适量运动
-- :book: 体系学习
+😃欢迎进入我的主页 ～(∠・ω< )⌒⭐
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novpath&layout=compact&theme=tokyonight)
-
+- 🎓️ 我是一名学生
+- 📝 置顶仓库有一些课程笔记
+- 🌞 希望我写的东西能帮助到你
+- 📫 你可以通过 novpath@gmail.com 联系我
+  
+> 和光同尘，与时舒卷；戢鳞潜翼，思属风云。——《晋书·宣帝纪论》
