@@ -1,6 +1,6 @@
 
 
-### Hello ~ 👋
+### Hello ～👋
 
 <img align="right" alt="novpath's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=novpath&show_icons=true&icon_color=F6511D&text_color=283845&bg_color=ffffff&hide_title=true"/>
 
